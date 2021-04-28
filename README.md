@@ -4,7 +4,7 @@
 **ROOT-017/ROOT-017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROOT-017)](https://github.com/ROOT-017/github-readme-stats)
 ### 🔭 I’m currently working on ...
 mY SKILLS
 ### 🌱 I’m currently learning ...
