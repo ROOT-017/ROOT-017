@@ -27,7 +27,7 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
  #### Profile Visits 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ROOT-017)
 
- #### Languages
+ #### Languages 
 
 <div>
 <div style="display: inline_block"><br>
