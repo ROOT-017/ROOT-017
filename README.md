@@ -8,6 +8,9 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ROOT-017&hide=scss&layout=compact&theme=tokyonight)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngulefac&layout=compact&theme=chartreuse-dark" />
+</a>
 
 
 
