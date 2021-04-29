@@ -2,7 +2,7 @@
 TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARDWARE MAINTAINER
 
 ### 🌱 I’m currently learning ...👇🏾</br>
--JavaScript
+-JavaScript</br>
 -React</br>
 -UI/UX Designing</br>
 #### Activity
