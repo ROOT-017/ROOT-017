@@ -15,6 +15,7 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ROOT-017&theme=vue&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ROOT-017&show_icons=true&count_private=true&theme=chartreuse-dark)
  
  #### Profile Visits 
 
