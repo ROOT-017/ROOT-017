@@ -59,6 +59,10 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 </p>
 
 
+### Now Vibe to this :
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="pro-prodipto's Spotify List" width="100%" />](https://open.spotify.com/playlist/0wVetG7KWNa4VmvHnJ9BsW)
+
+
 [+]Listen Me'en I Appreciate You Visiting My Profile Hope To See You Soon...</BR>
 [+]Feel Free To Link with Me On The Above Mention Sites</br>
 [+]REMEBER:>>>>> DECLERE VARIABLES NOT WARS!!😉 copyright©2021 <<<<<
