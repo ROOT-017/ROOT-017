@@ -7,7 +7,7 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ROOT-017&layout=compact&theme=chartreuse-dark)
+![languages](<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ROOT-017&layout=compact&theme=chartreuse-dark" width="600"/>)
 <!--<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROOT-017&layout=compact&theme=chartreuse-dark" />
 </a>
@@ -22,6 +22,8 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ROOT-017&show_icons=true&count_private=true&theme=chartreuse-dark)
  
  #### Profile Visits 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ROOT-017)
+
  #### Languages
 
 <div>
@@ -33,9 +35,8 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
   <img align="center" alt="Uly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
 </div>
+ 
 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ROOT-017)
 #### 📫 How to reach me: ...
 
 
@@ -56,4 +57,4 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 
 
 [+]Listen Me'en I Appreciate You Visiting My Page Hope To See You Soon...</BR>
-[+]REMEBER: DECLERE VARIABLE NOT WARS!!😉 copyright©2021<<<<<
+[+]REMEBER:>>>>> DECLERE VARIABLES NOT WARS!!😉 copyright©2021 <<<<<
