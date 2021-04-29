@@ -1,19 +1,29 @@
-### Hi there I'M ROOT 👋
+## Hi there I'M ROOT <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT |
 
-<!--
-**ROOT-017/ROOT-017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Activity
+<!--START_SECTION:waka-->
 
-Here are some ideas to get you started
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROOT-017)](https://github.com/ROOT-017/github-readme-stats)
-### 🔭 I’m currently working on ...
-mY SKILLS
-### 🌱 I’m currently learning ...
-MY SKILL
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
+
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ROOT-017&hide=scss&layout=compact&theme=tokyonight)
+
+
+
+<!--END_SECTION:waka-->
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=ROOT-017&theme=vue&show_icons=true&count_private=true)
+ 
+ #### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ROOT-017)
+### Global Stats (OpenSource activity)
+<p>
+    <img width="600"  
+         src="https://metrics.lecoq.io/ROOT-017?id=ROOT-017" 
+         alt="ROOT-017's Github Metrics"
+    />
+</p>
+
