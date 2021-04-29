@@ -26,7 +26,7 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 [![Twitter Badge](https://img.shields.io/badge/-@RootMultivate-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RootMultivate)](https://twitter.com/RootMultivate/) 
 [![Mail Badge](https://img.shields.io/badge/-@jeezyway_terence-405DE6?style=flat&labelColor=5851DB&logo=instagram&logoColor=white)](https://www.instagram.com/jeezyway_terence/)
 [![facebook Badge](https://img.shields.io/badge/-@Jeezyway_Terence-405DE6?style=flat&labelColor=5851DB&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009315999653)
-[![Youtube Badge](https://img.shields.io/badge/-@ROOT-TECH-405DE6?style=flat&labelColor=5851DB&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGv3no5_J8aZLNi-SRxNVNg/)
+[![Youtube Badge](https://img.shields.io/badge/-@ROOT_TECH-405DE6?style=flat&labelColor=5851DB&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGv3no5_J8aZLNi-SRxNVNg/)
 
 
 
