@@ -22,7 +22,7 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT |
 #### 📫 How to reach me: ...
 
 
-[![Mail Badge](https://img.shields.io/badge/-njidaniel-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:njid18753@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-nkwetachaterence-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nkwetachaterence17@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@RootMultivate-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RootMultivate)](https://twitter.com/RootMultivate/) 
 [![Mail Badge](https://img.shields.io/badge/-@jeezyway_terence-405DE6?style=flat&labelColor=5851DB&logo=instagram&logoColor=white)](https://www.instagram.com/jeezyway_terence/)
 ### Global Stats (OpenSource activity)
