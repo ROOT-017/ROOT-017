@@ -55,5 +55,5 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 </p>
 
 
-[+]Me'en I appreciate You visiting My Page hope To See You Soon...
-[+]REMEBER: DECLERE VARIABLE NOT WARS!! copyright©2021<<<<<
+[+]Listen Me'en I Appreciate You Visiting My Page Hope To See You Soon...</BR>
+[+]REMEBER: DECLERE VARIABLE NOT WARS!!😉 copyright©2021<<<<<
