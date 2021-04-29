@@ -56,5 +56,5 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 
 
 [+]Listen Me'en I Appreciate You Visiting My Page Hope To See You Soon...</BR>
-[+]Feel To Link with Me On The Above Mention Site</br>
+[+]Feel Free To Link with Me On The Above Mention Sites</br>
 [+]REMEBER:>>>>> DECLERE VARIABLES NOT WARS!!😉 copyright©2021 <<<<<
