@@ -25,7 +25,14 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 [![Mail Badge](https://img.shields.io/badge/-nkwetachaterence-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nkwetachaterence17@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@RootMultivate-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RootMultivate)](https://twitter.com/RootMultivate/) 
 [![Mail Badge](https://img.shields.io/badge/-@jeezyway_terence-405DE6?style=flat&labelColor=5851DB&logo=instagram&logoColor=white)](https://www.instagram.com/jeezyway_terence/)
-[![Facebook Badge](https://img.shields.io/badge/-@jJeezywayTerence-405DE6?style=flat&labelColor=5851DB&logofacebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009315999653)
+[![Youtube Badge](https://img.shields.io/badge/-@Jeezyway_Terence-405DE6?style=flat&labelColor=5851DB&logofacebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009315999653)
+
+### Additionanl links
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 ### Global Stats (OpenSource activity)
 <p>
     <img width="600"  
@@ -34,3 +41,15 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
     />
 </p>
 
+### Links
+
+[website]: https://codeSTACKr.com
+[course]: http://vsCodeHero.com
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
