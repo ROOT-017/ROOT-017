@@ -49,7 +49,7 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 #### 📫 How to reach me: ...
 
 
-[![Mail Badge](https://img.shields.io/badge/-nkwetachaterence-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nkwetachaterence17@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-NKWETACHA_TERENCE-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nkwetachaterence17@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@RootMultivate-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RootMultivate)](https://twitter.com/RootMultivate/) 
 [![Instagram Badge](https://img.shields.io/badge/-@jeezyway_terence-ef4c5d?style=flat&labelColor=ef4c5d&logo=instagram&logoColor=white)](https://www.instagram.com/jeezyway_terence/)
 [![facebook Badge](https://img.shields.io/badge/-@Jeezyway_Terence-405DE6?style=flat&labelColor=5851DB&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009315999653)
@@ -71,4 +71,4 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 
 [+]Listen Me'en I Appreciate You Visiting My Profile Hope To See You Soon...</BR>
 [+]Feel Free To Link with Me On The Above Mention Sites</br>
-[+]REMEBER:>>>>> DECLERE VARIABLES NOT WARS!!😉 copyright©2021 <<<<<
+[+]<b>REMEBER:>>>>> DECLERE VARIABLES NOT WARS!!😉 copyright©2021 <<<<<</b>
