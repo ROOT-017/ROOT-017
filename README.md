@@ -30,7 +30,7 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
  #### Languages 
 <style class="color">{padding:20px;
     margin:20px solid;
-    backgrown color:maroon;}<style/>
+    backgrown color:maroon;}</style>
 <div class="color">
 <div style="display: inline_block"><br>
   <img align="center" alt="Uly-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
@@ -39,6 +39,7 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
   <img align="center" alt="Uly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Uly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
+</div>
 </div>
  
 
