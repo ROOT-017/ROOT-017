@@ -28,8 +28,10 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ROOT-017)
 
  #### Languages 
-
-<div>
+<style class="color">{padding:20px;
+    margin:20px solid;
+    backgrown color:maroon;}<style/>
+<div class="color">
 <div style="display: inline_block"><br>
   <img align="center" alt="Uly-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="Uly-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
