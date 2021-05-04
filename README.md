@@ -41,7 +41,7 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 </div>
  
 
-#### 📫 How to reach me: ...
+#### 📫 Connect With Me At: ...👇🏾
 
 
 [![Mail Badge](https://img.shields.io/badge/-NKWETACHA_TERENCE-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nkwetachaterence17@gmail.com)
