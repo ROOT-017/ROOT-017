@@ -44,7 +44,7 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 </div>
  
 
-#### 📫 Connect With Me At ...👇🏾
+#### 📫 Connect With Me At ....👇🏾
 
 
 [![Mail Badge](https://img.shields.io/badge/-NKWETACHA_TERENCE-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nkwetachaterence17@gmail.com)
@@ -63,10 +63,10 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 </p>
 
 <!--
-### What About This Master Piece:
+#### What About This Master Piece:
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="pro-prodipto's Spotify List" width="100%" />](https://open.spotify.com/playlist/1DQ8pUggS06YZk1u7tuTEC)
 -->
 
 [+]Listen Me'en, I Appreciate You Visiting My Profile Hope To See You Soon...</BR>
 [+]Feel Free To Link with Me On The Above Mention Sites</br>
-[+]<b>REMEMBER:>>>>> DECLARE VARIABLES NOT WARS!!😉 copyright©2021 <<<<<</b>
+[+]<b>REMEMBER:>>>> DECLARE VARIABLES NOT WARS!!😉 copyright©2021 <<<<</b>
