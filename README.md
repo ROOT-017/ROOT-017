@@ -1,5 +1,5 @@
 ## SUP? I'M ROOT😉 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARDWARE MAINTAINER
+TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARDWARE MAINTAINER |
 
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
@@ -8,6 +8,7 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 -JavaScript</br>
 -React</br>
 -UI/UX Designing</br>
+
 #### Activity
 <!--START_SECTION:waka-->
 
@@ -43,8 +44,8 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 </div>
 </div>
  
-
-#### 📫 Connect With Me At ....👇🏾
+<!--- Nothing important--->
+#### 📫 Connect With Me At ...👇🏾
 
 
 [![Mail Badge](https://img.shields.io/badge/-NKWETACHA_TERENCE-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nkwetachaterence17@gmail.com)
@@ -69,4 +70,4 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 
 [+]Listen Me'en, I Appreciate You Visiting My Profile Hope To See You Soon...</BR>
 [+]Feel Free To Link with Me On The Above Mention Sites</br>
-[+]<b>REMEMBER:>>>> DECLARE VARIABLES NOT WARS!!😉 copyright©2021 <<<<</b>
+[+] REMEMBER:>>>> DECLARE VARIABLES NOT WARS!!😉 copyright©2021 <<<<</b>
