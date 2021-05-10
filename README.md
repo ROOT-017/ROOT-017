@@ -54,7 +54,7 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 [![facebook Badge](https://img.shields.io/badge/-@Jeezyway_Terence-405DE6?style=flat&labelColor=5851DB&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009315999653)
 [![Youtube Badge](https://img.shields.io/badge/-@ROOT_TECH-cc3300?style=flat&labelColor=cc3300&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGv3no5_J8aZLNi-SRxNVNg/)
 
-
+<!---My code is public not protected except the copyright statement-->
 
 <p>
     <img width="600"  
