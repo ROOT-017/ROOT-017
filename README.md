@@ -9,7 +9,6 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 -React</br>
 -Java</br>
 -UI/UX Designing</br>
-and m
 
 #### Activity
 <!--START_SECTION:waka-->
