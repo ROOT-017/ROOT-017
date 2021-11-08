@@ -9,7 +9,7 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 -Vue.js</br>
 -UI/UX Designing</br>
 -Graphic Designing</br>
--Web-De
+-Web DeV
 
 #### Activity
 <!--START_SECTION:waka-->
