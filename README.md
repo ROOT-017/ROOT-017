@@ -7,6 +7,7 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 ### 🌱 I’m currently learning ...👇🏾</br>
 -JavaScript</br>
 -Vue.js</br>
+React.js
 -UI/UX Designing</br>
 -Graphic Designing</br>
 -Web DeV
