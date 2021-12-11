@@ -3,11 +3,11 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
+<br>
 ### 🌱 I’m currently learning ...👇🏾</br>
 -JavaScript</br>
 -Vue.js</br>
-React.js
+-React.js</br>
 -UI/UX Designing</br>
 -Graphic Designing</br>
 -Web DeV
