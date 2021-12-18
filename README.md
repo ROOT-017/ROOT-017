@@ -17,7 +17,7 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-25-red)
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ROOT-017&layout=compact&theme=chartreuse-light)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ROOT-017&layout=compact&theme=chartreuse)
 
 
 <!--END_SECTION:waka-->
