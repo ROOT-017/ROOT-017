@@ -26,8 +26,8 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
  
  #### Profile Visits 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ROOT-017)</br>
-####Github Streaks
-<img src="https://camo.githubusercontent.com/e2a00321a82939b98badb34ca9b55684b74722a915152496e33095cb14005be8/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4e6562612d456d6d616e75656c267468656d653d6461726b" width="48%" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=ROOT-017&amp;theme=dark" style="max-width: 100%;">
+#### Github Streaks
+<!---<img src="https://camo.githubusercontent.com/e2a00321a82939b98badb34ca9b55684b74722a915152496e33095cb14005be8/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4e6562612d456d6d616e75656c267468656d653d6461726b" width="48%" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=ROOT-017&amp;theme=dark" style="max-width: 100%;">--->
 
  #### Languages 
 
