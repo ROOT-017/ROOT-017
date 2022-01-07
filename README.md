@@ -4,7 +4,7 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <br>
-### 🌱 I’m currently learning ...👇🏾</br>
+ #### 🌱 I’m currently learning ...👇🏾</br>
 -JavaScript</br>
 -Vue.js</br>
 -React.js</br>
@@ -74,4 +74,4 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 
 [+]Listen Men, I Appreciate You Visiting My Profile Hope To See You Soon...</BR>
 [+]Feel Free To Link with Me On The Above Mention Sites</br>
-[+] REMEMBER:</br DECLARE VARIABLES NOT WARS!!😉</br>>>>>>copyright©2022 <<<<</b>
+[+] REMEMBER:</br DECLARE VARIABLES NOT WARS!!😉</br> >>>>>copyright©2022 <<<<</b>
