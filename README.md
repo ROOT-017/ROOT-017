@@ -21,7 +21,7 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 
 
 <!--END_SECTION:waka-->
-
+#### GitHub Statistics
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ROOT-017&show_icons=true&count_private=true&theme=chartreuse-dark)
  #### Streak
  
