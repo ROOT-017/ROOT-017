@@ -23,9 +23,12 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 <!--END_SECTION:waka-->
 #### GitHub Statistics
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ROOT-017&show_icons=true&count_private=true&theme=chartreuse-dark)
+
 #### Github Streaks
- 
+<!---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ROOT-017&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ --->
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ROOT-017&theme=merko)](https://git.io/streak-stats)
  #### Profile Visits 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ROOT-017)</br>
 
