@@ -28,11 +28,13 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 <!---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ROOT-017&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  --->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ROOT-017&theme=merko)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ROOT-017&theme=chartreuse-dark)](https://git.io/streak-stats)
  #### Profile Visits 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ROOT-017)</br>
 
-<!---<img src="https://camo.githubusercontent.com/e2a00321a82939b98badb34ca9b55684b74722a915152496e33095cb14005be8/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4e6562612d456d6d616e75656c267468656d653d6461726b" width="48%" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=ROOT-017&amp;theme=dark" style="max-width: 100%;">--->
+<!---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ROOT-017&theme=merko)](https://git.io/streak-stats)
+<img src="https://camo.githubusercontent.com/e2a00321a82939b98badb34ca9b55684b74722a915152496e33095cb14005be8/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4e6562612d456d6d616e75656c267468656d653d6461726b" width="48%" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=ROOT-017&amp;theme=dark" style="max-width: 100%;">--->
 
  #### Languages 
 
@@ -79,4 +81,4 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 
 [+]Listen Men, I Appreciate You Visiting My Profile Hope To See You Soon...</BR>
 [+]Feel Free To Link with Me On The Above Mention Sites</br>
-[+] REMEMBER:</br DECLARE VARIABLES NOT WARS!!😉</br> >>>>>copyright©2022 <<<<</b>
+[+] REMEMBER:</br> DECLARE VARIABLES NOT WARS!!😉</br> >>>>>copyright©2022 <<<<</b>
