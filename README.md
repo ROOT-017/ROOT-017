@@ -9,7 +9,6 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 -Vue.js</br>
 -React.js</br>
 -UI/UX Designing</br>
--Graphic Designing</br>
 -Web DeV</br>
 
 #### Activity
