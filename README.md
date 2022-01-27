@@ -24,11 +24,10 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ROOT-017&show_icons=true&count_private=true&theme=chartreuse-dark)
 
 #### Github Streaks
-<!---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ROOT-017&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
- --->
+
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ROOT-017&theme=chartreuse-dark)](https://git.io/streak-stats)
- #### Profile Visits 
+
+#### Profile Visits 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ROOT-017)</br>
 
 <!---
@@ -65,7 +64,7 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 [![Youtube Badge](https://img.shields.io/badge/-@ROOT_TECH-cc3300?style=flat&labelColor=cc3300&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGv3no5_J8aZLNi-SRxNVNg/)
 
 <!---My code is public not protected except the copyright statement-->
-
+#### Overall Github Statistics
 <p>
     <img width="600"  
          src="https://metrics.lecoq.io/ROOT-017?id=ROOT-017" 
