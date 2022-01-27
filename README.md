@@ -25,8 +25,8 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | WEB DEVELOPER STUDENT | SOFTWARE AND HARD
 
 #### Github Streaks
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ROOT-017&theme=chartreuse-dark)](https://git.io/streak-stats)
-
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ROOT-017&theme=chartreuse)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ROOT-017&theme=chartreuse-dark)](https://git.io/streak-stats)
 #### Profile Visits 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ROOT-017)</br>
 
