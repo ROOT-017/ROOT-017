@@ -5,11 +5,9 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | FRONTEND-WEB DEVELOPER | SOFTWARE AND HAR
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <br>
 #### 🌱 I’m currently learning ...👇🏾</br>
--JavaScript</br>
 -Vue.js</br>
 -React.js</br>
--UI/UX Designing</br>
--Web DeV</br>
+-PHP</br>
 
 #### Activity
 <!--START_SECTION:waka-->
