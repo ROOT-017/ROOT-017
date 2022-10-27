@@ -49,8 +49,9 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | FRONTEND-WEB DEVELOPER | SOFTWARE AND HAR
   <img align="center" alt="Uly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Uly-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
    <img align="center" alt="Uly-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="Uly-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Uly-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwind-original.svg">
+   <img align="center" alt="Uly-VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+   <img align="center" alt="Uly-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Uly-tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
   
 </div>
 </div>
@@ -66,13 +67,13 @@ TECH ENTHUSIAST | ATHLETE | YOUTUBER | FRONTEND-WEB DEVELOPER | SOFTWARE AND HAR
 [![Youtube Badge](https://img.shields.io/badge/-@ROOT_TECH-cc3300?style=flat&labelColor=cc3300&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGv3no5_J8aZLNi-SRxNVNg/)
 
 <!---My code is public not protected except the copyright statement-->
-#### Overall Github Statistics
+<!--#### Overall Github Statistics
 <p>
     <img width="600"  
          src="https://metrics.lecoq.io/ROOT-017?id=ROOT-017" 
          alt="ROOT-017's Github Metrics"
     />
-</p>
+</p>--->
 <!--each day i run out of inspiration --->
 <!---
 #### What About This Master Piece:
