@@ -1,11 +1,10 @@
 ### SUP? I'M ROOT😉 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-TECH ENTHUSIAST | ATHLETE | YOUTUBER | FRONTEND-WEB DEVELOPER | SOFTWARE AND HARDWARE MAINTAINER | UI-UX DESIGNER |
+TECH ENTHUSIAST | ATHLETE | YOUTUBER |WEB DEVELOPER | SOFTWARE AND HARDWARE MAINTAINER | UI-UX DESIGNER |
 
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <br>
 #### 🌱 I’m currently learning ...👇🏾</br>
-👉️ Node.Js</br>
 👉️ Flutter</br>
 
 #### Activity
