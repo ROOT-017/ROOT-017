@@ -11,6 +11,11 @@ SOFTWARE ENGINEER | TECH ENTHUSIAST | ATHLETE | YOUTUBER |FULL S5TCK WEB DEVELOP
 <!--START_SECTION:waka-->
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-25-red)
+#### Coding Time
+<!--START_SECTION:waka-->
+
+[![wakatime](https://wakatime.com/badge/user/018ccb2a-aeae-410d-b0f0-700393feec74.svg)](https://wakatime.com/@018ccb2a-aeae-410d-b0f0-700393feec74)
+
 #### Language
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ROOT-017&layout=compact&theme=chartreuse-dark)
 
